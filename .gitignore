@@ -1,0 +1,19 @@
+# Quarto outputs
+*.html
+*.pdf
+*.docx
+_site/
+_freeze/
+
+# Data files (if large; add back if needed)
+*.csv
+*.xlsx
+
+# Python/R caches
+__pycache__/
+.RData
+.Rhistory
+
+# OS junk
+.DS_Store
+Thumbs.db
