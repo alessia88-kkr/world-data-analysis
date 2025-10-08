@@ -1,0 +1,13 @@
+---
+title: "Analysis of World Development Indicators"
+author: "AC"
+date: "2025-10-06”
+format:
+  html:
+    toc: true
+  pdf:
+    toc: true
+---
+# Introduction
+
+This report analyzes a sample of World Development Indicators for 2022.
